@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreatDemo", "TreatDemo\Trea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingASPNetCore3", "UnderstandingASPNetCore3\UnderstandingASPNetCore3.csproj", "{3A7391BE-C1EF-41D3-AA86-D6C0ADCD3587}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciples", "SOLIDPrinciples\SOLIDPrinciples.csproj", "{44360F0F-DF0C-40DE-9B57-042FE470CB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{3A7391BE-C1EF-41D3-AA86-D6C0ADCD3587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7391BE-C1EF-41D3-AA86-D6C0ADCD3587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7391BE-C1EF-41D3-AA86-D6C0ADCD3587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44360F0F-DF0C-40DE-9B57-042FE470CB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44360F0F-DF0C-40DE-9B57-042FE470CB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44360F0F-DF0C-40DE-9B57-042FE470CB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44360F0F-DF0C-40DE-9B57-042FE470CB9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
