@@ -1,0 +1,73 @@
+
+         <body>
+            <h1>Using the Amsler Grid</h1>
+            <p>If you are at risk for vision loss,
+         you may be told to check your eyesight regularly using the Amsler grid. Below is the grid
+         and instructions for using it.</p>
+            <p>
+               <ul>
+                  <li>line1</li>
+                  <li>line2</li>
+                  <li>line3</li>
+                  <li/>
+               </ul>
+               <a href="http://youtube.com"/>
+            </p>  
+            <p>
+               <img alt=""
+                    height=""
+                    width=""
+                    imageid="/rsuite/rest/v2/content/binary/alias/ANeuro_20160226_v0_001_LR"
+                    title=""/>
+            </p>
+            <Section>
+               <h2>How to use the Amsler grid</h2>
+               <ol>
+                  <li>
+                     <p>Use the grid in a
+                  well-lighted area.</p>
+                  </li>
+                  <li>
+                     <p>Wear glasses or contact
+                  lenses if you usually wear them.</p>
+                  </li>
+                  <li>
+                     <p>Hold the grid at your normal
+                  reading distance (about 16 inches).</p>
+                  </li>
+                  <li>
+                     <p>Cover your left eye.</p>
+                  </li>
+                  <li>
+                     <p>With your right eye, look at
+                  the dot in the center of the grid.</p>
+                  </li>
+                  <li>
+                     <p>While looking at the dot,
+                  notice if any of the lines look wavy, if any lines disappear, or if the boxes
+                  change shape.</p>
+                  </li>
+                  <li>
+                     <p>Write down on a piece of
+                  paper any vision changes from the last time you used the grid.</p>
+                  </li>
+                  <li>
+                     <p>Now repeat the exercise, this
+                  time covering your right eye.</p>
+                  </li>
+                  <li>
+                     <p>Call your healthcare provider
+                  right away if you notice <b class="Bold">any</b>
+                  vision changes.</p>
+                  </li>
+               </ol>
+            </Section>
+            <Section>
+               <h2>How often should I check my
+         vision?</h2>
+               <p>Use the Amsler grid as often as
+            your eye healthcare provider suggests. Keep the grid where you�ll remember to use it.
+            Call your eye healthcare provider right away if you notice any changes with your
+            eyesight. This includes if your vision improves.</p>
+            </Section>
+         </body>
